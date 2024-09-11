@@ -31,8 +31,8 @@ const routes = [
   },
 
   {
-    path: '/accueil',
-    name:'Accueil',
+    path: '/home',
+    name:'accueil',
     component: ThemeView,
   }
 

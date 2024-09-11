@@ -12,6 +12,6 @@
 <style>
 
 body {
-  background-color:rgba(75, 20, 230, 0.75);
+  background-color:rgba(116, 72, 235, 0.75);
 }
 </style>
